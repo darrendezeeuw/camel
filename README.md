@@ -6,4 +6,4 @@ The CAMEL web application can be viewed at: https://ccmc.gsfc.nasa.gov/tools/CAM
 
 This repository currently only includes skill score part of CAMEL and does not include the web application and user interface.
 
-Example python notebooks will soon be available.
+Example python notebooks will soon be available. Bla bal
